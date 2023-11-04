@@ -1,4 +1,4 @@
-# element-plus-vite-starter
+# element-plus-vite-starter 很亏啊啊
 
 > A starter kit for Element Plus with Vite
 
@@ -40,4 +40,5 @@ npm run dev
 ### Custom theme
 
 See `src/styles/element/index.scss`.
+
 # vue-element-plus
